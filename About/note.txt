@@ -1,1 +1,1 @@
-note: rename preview and make another one saying this is a port
+the original preview image was renamed, so a new one that mentions it's a port can be added
