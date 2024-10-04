@@ -17,7 +17,7 @@ Anyways, here's the original (much better than mine) description:
 With this mod you can have way more memes with ideology (0-100 memes by default).
 You can change the minimum memes and the maximum memes in the mod settings options.
 You can also change how many memes NPC factions have (1-3 memes by default).
-You can also change the maximum amount of venerated animals (18 venerated animals by default).</packageId>
+You can also change the maximum amount of venerated animals (18 venerated animals by default). </description>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>
