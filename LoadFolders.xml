@@ -12,6 +12,7 @@
 		<!-- non version-specific -->
 		<li>/</li>
 		<li>Common</li>
+		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
 		<!-- version specific -->
 		<li>1.4</li>
@@ -20,6 +21,7 @@
 		<!-- non version-specific -->
 		<li>/</li>
 		<li>Common</li>
+		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
 		<!-- version specific -->
 		<li>1.5</li>
@@ -28,6 +30,7 @@
 		<!-- non version-specific -->
 		<li>/</li>
 		<li>Common</li>
+		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
 		<!-- version specific -->
 		<li>1.6</li>
@@ -36,6 +39,7 @@
 		<!-- non version-specific -->
 		<li>/</li>
 		<li>Common</li>
+		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
 		<!-- version specific -->
 		<li>1.6</li>
