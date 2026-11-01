@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
-	<v1.5>
-		<!-- non version-specific -->
-		<li>/</li>
-		<li>Common</li>
-		
-		<!-- version specific -->
-		<li>1.5</li>
-	</v1.5>
 	<v1.6>
 		<!-- non version-specific -->
 		<li>/</li>
