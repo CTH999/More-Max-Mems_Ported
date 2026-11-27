@@ -3,5 +3,3 @@
 In this branch are all my mods for Rimworld.
 
 <a href="https://github.com/kenx00x/Mods/tree/master">Go back to main page</a>
-
-removeing 1.7 compat
