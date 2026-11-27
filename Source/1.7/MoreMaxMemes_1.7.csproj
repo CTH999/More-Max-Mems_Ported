@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A84740B-9AD7-4B12-998A-99F808706DE1}</ProjectGuid>
+    <ProjectGuid>{022A2883-2BDC-43C9-9A55-A94A62CE4194}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MoreMaxMemes</RootNamespace>
