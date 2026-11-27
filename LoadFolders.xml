@@ -4,6 +4,14 @@
 	</v1.3>
 	<v1.4>
 	</v1.4>
+	<v1.5>
+		<!-- non version-specific -->
+		<li>/</li>
+		<li>Common</li>
+		
+		<!-- version specific -->
+		<li>1.5</li>
+	</v1.5>
 	<v1.6>
 	</v1.6>
 </loadFolders>
