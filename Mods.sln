@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMaxMemes_1.3", "Source\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMaxMemes_1.4", "Source\1.4\MoreMaxMemes_1.4.csproj", "{53E49631-B96C-47E6-B0AA-554CF9111C58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMaxMemes_1.5", "Source\1.5\MoreMaxMemes_1.5.csproj", "{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{53E49631-B96C-47E6-B0AA-554CF9111C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E49631-B96C-47E6-B0AA-554CF9111C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E49631-B96C-47E6-B0AA-554CF9111C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
