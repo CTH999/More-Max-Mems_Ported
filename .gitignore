@@ -3,7 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-/Transfer Folder
 /.vs
 # User-specific files
 *.rsuser
@@ -366,3 +365,5 @@ FodyWeavers.xsd
 
 # Blender - backup files
 *.blend1
+
+/.transfer
