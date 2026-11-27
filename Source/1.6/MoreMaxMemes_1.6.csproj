@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F5081B9-1509-4ED9-A93F-CF8EFFBD7D23}</ProjectGuid>
+    <ProjectGuid>{AD0B0378-D9C8-4DFA-9767-0ACE26AF5794}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XenotypeAndIdeologyButtonsTitleScreen</RootNamespace>
-    <AssemblyName>XenotypeAndIdeologyButtonsTitleScreen</AssemblyName>
+    <RootNamespace>MoreMaxMemes</RootNamespace>
+    <AssemblyName>MoreMaxMemes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -253,10 +253,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dialog_CreateXenotype2.cs" />
-    <Compile Include="PageCheck.cs" />
+    <Compile Include="VanillaMemesExpandedPatch.cs" />
     <Compile Include="MainPatches.cs" />
-    <Compile Include="XenotypeAndIdeologyButtonsTitleScreen.cs" />
+    <Compile Include="MoreMaxMemes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
